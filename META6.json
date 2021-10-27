@@ -1,0 +1,21 @@
+{
+  "name": "F2",
+  "description": "Module for (de)serialization object",
+  "version": "0.0.1",
+  "perl": "6.*",
+  "authors": [
+    "Élerille"
+  ],
+  "auth": "github:elerille",
+  "depends": [],
+  "build-depends": [],
+  "test-depends": [
+    "Test::META"
+  ],
+  "provides": {
+    "F2": "lib/F2.pm6"
+  },
+  "resources": [],
+  "license": "GPL-3.0-or-later",
+  "source-url": "git://github.com/elerille/raku-f2.git"
+}
