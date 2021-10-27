@@ -13,7 +13,8 @@
     "Test::META"
   ],
   "provides": {
-    "F2": "lib/F2.pm6"
+    "F2": "lib/F2.pm6",
+    "F2::JSON": "lib/F2/JSON.pm6"
   },
   "resources": [],
   "license": "GPL-3.0-or-later",
